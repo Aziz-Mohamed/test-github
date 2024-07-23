@@ -1,1 +1,1 @@
-let user2 = "user2";
+we have deleted the user2 to make a conflict in merging
